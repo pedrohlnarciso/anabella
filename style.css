@@ -1,0 +1,39 @@
+#links {
+    background-color: lightgrey;
+    width: 69%;
+    height: 50px;
+}
+
+#pages {
+    font-style: oblique;
+}
+
+#texto {
+    background-color: white;
+    width: 69%;
+    
+}
+
+h1 {
+    color: grey;
+    margin: 10px;
+}
+
+#direitos {
+    background-color: lightgrey;
+    text-align: center;
+    width: 69%;
+}
+
+p {
+    margin: 10px;
+}
+
+img {
+    margin: 10px;
+    border: 5px groove lightgrey
+}
+
+#capa {
+    border: none;
+}
